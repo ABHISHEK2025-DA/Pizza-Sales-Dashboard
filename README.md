@@ -88,6 +88,6 @@ The goal is to enable **data-driven decision making** for optimizing menu offeri
 
 ## 🙌 Author  
 **Abhishek Dabhade**  
--📧 (dabhadeabhishek21@gmail.com)
--🔗 [LinkedIn](http://www.linkedin.com/in/abhishek-dabhade-b94336204) 
+📧 (dabhadeabhishek21@gmail.com)
+🔗 [LinkedIn](http://www.linkedin.com/in/abhishek-dabhade-b94336204) 
 
